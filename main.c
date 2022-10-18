@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-    int a, min=21, max=56
+    int a, min=21, max=56;
     scanf ("%d", &a);
     printf ("%d\n", min<a && max>a);
     int b;
